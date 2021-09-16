@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SimonDMaxwell
 - 👀 I’m interested in anime, writing, drawing and programming.
 - 🌱 I’m currently learning Web Dev with Angular.
-- 💞️ I’m looking to collaborating on ...
+- 💞️ I’m looking to collaborating on Phaser 3 games.
 - 📫 How to reach me lolicongress@outlook.com
 
 <!---
