@@ -2,7 +2,7 @@
 - 👀 I’m interested in anime, writing, drawing and programming.
 - 🌱 I’m currently learning Web Des with Angular.
 - 💞️ I’m looking to collaborate on Angular Projects.
-- 📫 How to reach me simon.dominic.maxwell@gmail.com
+- 📫 How to reach me? Here
 
 <!---
 SimonDMaxwell/SimonDMaxwell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
