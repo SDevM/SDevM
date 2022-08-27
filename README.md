@@ -1,29 +1,15 @@
-- 👋 Hi, I’m @SimonDMaxwell
-- 👀 I’m interested in anime, writing, drawing and programming.
-- 🌱 I’m currently mastering Web Development on the MEAN stack, aiming for mobile app development in the near future.
-- 💞️ I’m looking to collaborate on Javascript Full Stack Projects.
-- 📫 How to reach me?
-  - Discord ForfeitLogos#1175
-  - Whatsapp/Call 18763449178
-
-<!---
-SimonDMaxwell/SimonDMaxwell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/SimonDMaxwell/SimonDMaxwell/blob/main/resources/img/waving.gif">, the name's Simon,</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/SimonDMaxwell/SimonDMaxwell/blob/main/Resources/waving.gif">, the name's Simon,</h1>
 <h4 align="center">a developer in training and student at Amber Heart Academy</h4>
 </div>
 
 <div align="center">
-  <a href="https://SimonDMaxwell.github.io/1999AZZAR/">
-  <img  src="https://github.com/SimonDMaxwell/SimonDMaxwell/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://github.com/SimonDMaxwell/SimonDMaxwell/blob/main/Resources/grid-snake.svg"
+       alt="snake" />
 </div>
 
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>☎️ Contact me</summary>
 <div>
   <samp>
     <h2 align="center">😎 you can reach me by:</h2>
@@ -46,29 +32,6 @@ You can click the Preview link to take a look at your changes.
       <br>
     </p>
   </samp>
-</div>
-</details>
-
-<details>
-  <summary>🧮 about</summary>
-<div>
-<h2 align="center">🧮 About this Account</h2>
- <p align="center">
-  <a href="github.com/SimonDMaxwell" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/visits/SimondMaxwell/SimonDMaxwell?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
-     alt="spying counter" /></a>
-  <a href="github.com/SimonDMaxwell" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/years/SimonDMaxwell/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
-     alt="account age" /></a>
-  </p>
-  <p align="center">
-  <a href="github.com/SimonDMaxwell" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/updated/SimonDMaxwell/SimonDMAxwell?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
-     alt="updated" /></a>
-  <a href="github.com/SimonDMaxwell" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/repos/SimonDMaxwell/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
-     alt="repos" /></a>
- </p>
 </div>
 </details>
 
