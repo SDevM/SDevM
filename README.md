@@ -26,10 +26,10 @@
             <br />
             <p align="center" style="font-size: 32px;">
                 <a
-                    href="https://github.com/PlutoNetworkMC"
+                    href="https://github.com/NeptuneDevelopmentServices"
                     target="blank"
                     >
-                    PlutoNetworkMC
+                    NeptuneDevelopmentServices
                 </a>
             </p>
             <p align="center" style="font-size: 32px;">
