@@ -121,11 +121,10 @@
     <summary>📈 Activity Graph</summary>
     <br />
     <h2 align="center">My current activity</h2>
-    <a href="https://github.com/SDevM/github-readme-activity-graph"
-        ><img
+    <img
             alt="azzar's Activity Graph"
             src="https://activity-graph.herokuapp.com/graph/?username=sdevm&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true"
-    /></a>
+    />
 </details>
 
 --- Credit: [1999azzar](https://github.com/1999azzar)
