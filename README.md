@@ -95,21 +95,21 @@
         <h2 align="center">📊 Github stats</h2>
         <br />
         <p align="center">
-            <a href="https://github.com/SimonDMaxwell/">
+            <a href="https://github.com/SDevM/">
                 <img
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonDMaxwell&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-                    alt="SimonDMaxwell :: Top Langs"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDevM&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+                    alt="SDevM :: Top Langs"
             /></a>
         </p>
         <p align="center">
-            <a href="https://github.com/SimonDMaxwell/">
+            <a href="https://github.com/SDevM/">
                 <img
                     width="49.5%"
-                    src="https://github-readme-stats.vercel.app/api?username=SimonDMaxwell&show_icons=true&theme=gruvbox&hide_border=true"
+                    src="https://github-readme-stats.vercel.app/api?username=SDevM&show_icons=true&theme=gruvbox&hide_border=true"
                 />
                 <img
                     width="49.5%"
-                    src="https://github-readme-streak-stats.herokuapp.com/?user=SimonDMaxwell&theme=gruvbox&hide_border=true"
+                    src="https://github-readme-streak-stats.herokuapp.com/?user=SDevM&theme=gruvbox&hide_border=true"
                 />
             </a>
         </p>
@@ -121,10 +121,10 @@
     <summary>📈 Activity Graph</summary>
     <br />
     <h2 align="center">My current activity</h2>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"
+    <a href="https://github.com/SDevM/github-readme-activity-graph"
         ><img
             alt="azzar's Activity Graph"
-            src="https://activity-graph.herokuapp.com/graph/?username=simondmaxwell&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true"
+            src="https://activity-graph.herokuapp.com/graph/?username=sdevm&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true"
     /></a>
 </details>
 
