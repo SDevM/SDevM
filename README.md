@@ -122,7 +122,7 @@
     <br />
     <h2 align="center">My current activity</h2>
     <img
-            alt="azzar's Activity Graph"
+            alt="SDevM's Activity Graph"
             src="https://activity-graph.herokuapp.com/graph/?username=sdevm&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true"
     />
 </details>
