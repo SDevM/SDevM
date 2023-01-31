@@ -4,7 +4,7 @@
         <img
             width="35"
             src="https://github.com/SimonDMaxwell/SimonDMaxwell/blob/main/Resources/waving.gif"
-        />, the name's Simon,
+        />, my name is Simon,
     </h1>
     <h4 align="center">
         a developer in training and student at Amber Heart Academy
