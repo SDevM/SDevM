@@ -7,7 +7,7 @@
         />, my name is Simon,
     </h1>
     <h4 align="center">
-        a developer in training and student at Amber Heart Academy
+        Web Fullstack. Android App Dev. Video Game Dev.
     </h4>
 </div>
 
